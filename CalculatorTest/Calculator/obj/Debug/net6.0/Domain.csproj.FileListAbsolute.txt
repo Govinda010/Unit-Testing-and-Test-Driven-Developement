@@ -1,0 +1,12 @@
+D:\TDD\CalculatorTest\Calculator\bin\Debug\net6.0\Domain.deps.json
+D:\TDD\CalculatorTest\Calculator\bin\Debug\net6.0\Domain.dll
+D:\TDD\CalculatorTest\Calculator\bin\Debug\net6.0\Domain.pdb
+D:\TDD\CalculatorTest\Calculator\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\TDD\CalculatorTest\Calculator\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TDD\CalculatorTest\Calculator\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\TDD\CalculatorTest\Calculator\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\TDD\CalculatorTest\Calculator\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\TDD\CalculatorTest\Calculator\obj\Debug\net6.0\Domain.dll
+D:\TDD\CalculatorTest\Calculator\obj\Debug\net6.0\refint\Domain.dll
+D:\TDD\CalculatorTest\Calculator\obj\Debug\net6.0\Domain.pdb
+D:\TDD\CalculatorTest\Calculator\obj\Debug\net6.0\ref\Domain.dll
